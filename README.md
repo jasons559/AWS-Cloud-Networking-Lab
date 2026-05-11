@@ -63,5 +63,4 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
 </ul>
 
 
-
 <h2>Screenshots</h2>
