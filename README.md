@@ -24,17 +24,22 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
  <li>Linux Networking Tools</li>
 </ul>
 
-<b>Key Configurations</b>
+<h2>Architecture</h2>
+<p><b>Public Bastion Host</b></p>
 <ul>
-<li>Configured static IP addressing using Netplan</li>
-<li>Deployed and configured BIND9 DNS server</li>
- <li>Created forward and reverse lookup zones</li>
- <li>Enabled internal name resolution between systems</li>
- <li>Managed DNS and system services using systemctl</li>
- <li>Configured client system to use internal DNS server</li>
+<li>Public IPv4 enabled</li>
+<li>Used as administrative entry point </li>
+ <li>Accessible from external internet via SSH</li>
 </ul>
 
-<b>Troubleshooting & Validation</b>
+<p><b>Private App Server</b></p>
+<ul>
+<li>Private IPv4 only</li>
+<li>No public internet exposure</li>
+ <li>Accessible only through Bastion host</li>
+</ul>
+
+<b>Key Skills Demonstrated</b>
 <ul>
 <li>Diagnosed DNS resolution failures using dig and system logs</li>
 <li>Verified reverse DNS lookups using PTR records</li>
