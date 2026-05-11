@@ -72,4 +72,29 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
  <li>ss -tulnp</li>
   <li>ssh -i CloudLab-Key.pem ec2-user@10.0.3.17</li>
 </ul>
+
+## Architecture Diagram
+
+```text
+                    Internet
+                        │
+                        │
+                Public SSH Access
+                        │
+                        ▼
+        ┌──────────────────────────┐
+        │   CloudLab-Bastion       │
+        │   Public EC2 Instance    │
+        │   Public IP + Private IP │
+        └──────────────────────────┘
+                        │
+                 Internal SSH
+                        │
+                        ▼
+        ┌──────────────────────────┐
+        │      App-Server          │
+        │   Private EC2 Instance   │
+        │   Private IP Only        │
+        └──────────────────────────┘
+```
 <h2>Screenshots</h2>
