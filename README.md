@@ -101,27 +101,27 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
 
 <p align="center">
 Bastion EC2 Details: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram.png" height="80%" width="80%" 
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/Bastion_Instance%20.png" height="80%" width="80%" 
 <br />
 <br />
 AppServer Private IP:  <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/5ff34cebc35763c97b430deda6aef54414b8e95f/images/BIND9_Configuration.png" height="80%" width="80%" 
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/App_Server_Details(private_IP).png" height="80%" width="80%" 
 <br />
 <br />
 Apache Browser Page: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/Apache_Web_Server.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Security Group Rules:  <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/Security_Group_Rules.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Bastion SSH Into App Server: <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/Bastion_to_AppServer_SSH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Linux Networking Commands:  <br/>
-<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/AWS-Cloud-Networking-Lab/blob/main/images/Terminal_Validation.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
