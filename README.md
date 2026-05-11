@@ -12,11 +12,16 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
    <li>Internal-only server management</li>
 </ul>
 
-<b>Networking & Tools</b>
+<b>Technologies Used</b>
 <ul>
-<li>TCP/IP, Static Addressing</li>
-<li>ip,ping,dig,resolvectl</li>
- <li>Virtualized networking</li>
+<li>Amazon Web Services (AWS)</li>
+<li>Amazon EC2</li>
+ <li>VPC Networking</li>
+ <li>Security Groups</li>
+<li>Amazon Linux 2023</li>
+ <li>Apache HTTP Server</li>
+ <li>SSH/PEM Key Authentication</li>
+ <li>Linux Networking Tools</li>
 </ul>
 
 <b>Key Configurations</b>
