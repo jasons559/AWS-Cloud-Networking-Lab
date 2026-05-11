@@ -100,23 +100,30 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
 <h2>Screenshots</h2>
 
 <p align="center">
-Network Diagram: <br/>
+Bastion EC2 Details: <br/>
 <img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Network_Diagram.png" height="80%" width="80%" 
 <br />
 <br />
-BIND9 Configuration:  <br/>
+AppServer Private IP:  <br/>
 <img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/5ff34cebc35763c97b430deda6aef54414b8e95f/images/BIND9_Configuration.png" height="80%" width="80%" 
 <br />
 <br />
-Successful DNS Query: <br/>
+Apache Browser Page: <br/>
 <img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reverse DNS Query:  <br/>
+Security Group Rules:  <br/>
 <img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Bastion SSH Into App Server: <br/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Successful_DNS_Query.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Linux Networking Commands:  <br/>
+<img src="https://github.com/jasons559/Home-Data-Center-Lab/blob/main/images/Reverse_DNS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 </p>
