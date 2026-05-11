@@ -62,5 +62,14 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
  <li>Implemented Security Group referencing for secure administrative access</li>
 </ul>
 
-
+<b>Example Linux Commands Used</b>
+<ul>
+<li>ip addr</li>
+<li>ip route</li>
+ <li>ping 8.8.8.8</li>
+ <li>curl ifconfig.me</li>
+ <li>systemctl status httpd</li>
+ <li>ss -tulnp</li>
+  <li>ssh -i CloudLab-Key.pem ec2-user@10.0.3.17</li>
+</ul>
 <h2>Screenshots</h2>
