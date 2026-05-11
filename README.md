@@ -41,15 +41,26 @@ The lab simulates a basic enterprise-style infrastructure model featuring:</p>
 
 <b>Key Skills Demonstrated</b>
 <ul>
-<li>Diagnosed DNS resolution failures using dig and system logs</li>
-<li>Verified reverse DNS lookups using PTR records</li>
- <li>Troubleshot network connectivity and interface issues using ip and ping</li>
- <li>Flushed DNS cache using resolvectl to validate changes</li>
- <li>Managed DNS and system services using systemctl</li>
- <li>Performed end-to-end connectivity testing between Linux server and Windows client</li>
+<li>Cloud infrastructure deployment</li>
+<li>Linux server administration</li>
+ <li>SSH remote management</li>
+ <li>Security Group configuration</li>
+ <li>Bastion host implementation</li>
+ <li>Public/private subnet architecture</li>
+ <li>Apache web server deployment</li>
+ <li>Internal VPC communication</li>
+ <li>Troubleshooting network connectivity</li>
 </ul>
 
-
+<b>Validations Performed</b>
+<ul>
+<li>Verified SSH connectivity from local workstation to Bastion host</li>
+<li>Validated private server access through Bastion architecture</li>
+ <li>Confirmed internal VPC routing functionality</li>
+ <li>Tested outbound internet access and DNS resolution</li>
+ <li>Configured and validated Apache web server availability</li>
+ <li>Implemented Security Group referencing for secure administrative access</li>
+</ul>
 
 
 
